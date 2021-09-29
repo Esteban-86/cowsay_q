@@ -1,0 +1,22 @@
+{
+  "name": "quest-cowsay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esteban-86/Cowsay-Quest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esteban-86/Cowsay-Quest/issues"
+  },
+  "homepage": "https://github.com/Esteban-86/Cowsay-Quest#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
